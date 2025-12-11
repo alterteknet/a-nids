@@ -231,5 +231,5 @@ Displays all recorded detections from the SQLite database.
 
 **Alter Gajahmada**  
 🔗 [www.altertek.net](https://www.altertek.net)
-Flow Documentation [Pseudo Code].(https://www.dropbox.com/scl/fi/jrs8y0a68ii2opq8c8712/Pseudo-Code.pdf?rlkey=mcf280x9onymtpxayk7ptj0l2&dl=0)
+Flow Documentation [Pseudo Code](https://www.dropbox.com/scl/fi/jrs8y0a68ii2opq8c8712/Pseudo-Code.pdf?rlkey=mcf280x9onymtpxayk7ptj0l2&dl=0)
 Inspired by [Stratosphere Linux IPS](https://stratosphereips.org)
