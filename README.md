@@ -200,9 +200,9 @@ Displays all recorded detections from the SQLite database.
 | View local database results | `python3 anids-v1.py --view-db` |
 
 ---
-### 🔹 Pseudo Code Documentation
+### 🔹 Pseudocode Documentation
 
-Flow Documentation [Pseudo Code](https://www.dropbox.com/scl/fi/jrs8y0a68ii2opq8c8712/Pseudo-Code.pdf?rlkey=mcf280x9onymtpxayk7ptj0l2&dl=0)
+Flow Documentation [Pseudocode](https://www.dropbox.com/scl/fi/jrs8y0a68ii2opq8c8712/Pseudo-Code.pdf?rlkey=mcf280x9onymtpxayk7ptj0l2&dl=0)
 
 
 ## 📊 Log and Output Paths
