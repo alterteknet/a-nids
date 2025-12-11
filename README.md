@@ -198,8 +198,12 @@ Displays all recorded detections from the SQLite database.
 | Run live detection on sniffer interface | `sudo python3 anids-v1.py -i ens224` |
 | Train using CICDDoS dataset | `python3 anids-v1.py -f cicddos_day3_11.csv` |
 | View local database results | `python3 anids-v1.py --view-db` |
-Flow Documentation [Pseudo Code](https://www.dropbox.com/scl/fi/jrs8y0a68ii2opq8c8712/Pseudo-Code.pdf?rlkey=mcf280x9onymtpxayk7ptj0l2&dl=0)
+
 ---
+### 🔹 Pseudo Code Documentation
+
+Flow Documentation [Pseudo Code](https://www.dropbox.com/scl/fi/jrs8y0a68ii2opq8c8712/Pseudo-Code.pdf?rlkey=mcf280x9onymtpxayk7ptj0l2&dl=0)
+
 
 ## 📊 Log and Output Paths
 
